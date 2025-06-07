@@ -13,7 +13,7 @@
 - [raspberryPi Zero with HAT](https://rpishop.cz/535843/raspberry-pi-zero-2-w-s-pripajenym-gpio-headerem/)
 - [Waveshare 7.5" e-Paper display](https://rpishop.cz/e-paper-karty-hat/1049-waveshare-75-epaper-display-for-raspberry-pi.html)
 - server that runs PHP with Imagick
-- (optional) 3D printed frame for our display (stl of one that can be used on IKEA Skadis pegboard is avalible on printables)
+- (optional) 3D printed frame for our display (stl of one that can be used on IKEA Skadis pegboard is avalible on [printables](https://www.printables.com/model/1321105-skadis-frame-for-waveshare-75-e-paper-display))
 
 ## Basic workflow
 1. cron on rPi runs [python](https://github.com/dariokolar/PIDeink-rPi) script every minute
