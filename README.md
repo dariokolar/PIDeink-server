@@ -1,6 +1,9 @@
 
+
 ## PID e-ink Board - Server side (php)
 - This is one part of that project, see also [second part - local on rPi](https://github.com/dariokolar/PIDeink-rPi).
+
+<img src="img/test.bmp" alt="Logo" width="500"/>
 
 ## Introduction
 - This project obtain power limitation of raspberryPi Zero (rPi)
@@ -19,6 +22,4 @@
 4. server will create image of departure board with that current data and display it
 5. python script on rPi will download that image and send it on e-ink display (with use of manufacturer python library)
 
-
-
-
+<img src="img/photo.jpeg" alt="Logo" width="500"/>
